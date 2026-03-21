@@ -1,0 +1,104 @@
+.navbar{
+  display: flex;
+}
+ul{
+  display: flex;
+}
+#get{
+  border-radius: 20px;
+  height: 40px;
+ border: 1.5px solid #1B263B;
+  border-radius: 25px;
+  color:  #1B263B;
+  border-color: navy;
+  text-align: center;
+}
+#get:focus {
+    outline: none;
+    /* Optional: Keep your custom border color so it doesn't disappear */
+    border: 1.5px solid #1B263B; 
+}
+
+.li{
+  list-style: none;
+  margin-right: 20px;
+}
+.href{
+  text-decoration: none;
+  color: #1B263B;
+  text-decoration: none;
+}
+img{
+  width: 60px;
+  height: 60px;
+}
+::placeholder{
+  color:  #1B263B;
+}
+.fd1{
+  height: 240px;
+  border-radius: 5px;
+  width: 70px;
+}
+
+.text{
+  color: #1B263B;
+}
+
+#href{
+  text-decoration: none;
+  color:  color: #FFFFFF;
+}
+.btn{
+  height: 50px;
+  width: 150px;
+  border: none;
+  border-radius: 10px;
+  background: #C5A059;
+ 
+  border-radius: 50px; /* To match your pill-shaped search bar */
+  padding: 12px 24px;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  
+}
+
+.btn:hover {
+  background-color: #2C3E50; 
+  
+}
+
+#btn1{
+  margin-left: 20px;
+}
+.ck{
+  color: #1B263B;
+}
+body{
+  background: #FFF9F0;
+}
+
+   
+ #href{
+    color: #1B263B; 
+    text-decoration: none; 
+    transition: color 0.3s ease; 
+}
+
+
+ #href:hover{
+    color: white; 
+}
+
+#href:focus{
+    outline: none;
+    border-bottom: 2px solid white; 
+  color: white;
+}
+  #href:visited{
+    color: #1B263B; 
+}
+ol{
+  margin-left: -40px;
+}
