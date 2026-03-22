@@ -1,2 +1,2 @@
-# Trueharsle
+# Hotel Depari
 Website
